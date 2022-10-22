@@ -42,4 +42,4 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 
 ## Considerações
-&ensp;
+&ensp; Nos tempos de execução, fica clara a diferença entre a complexidade de O(n*logn) do Merge Sort e O(n^2) do Bubble Sort. O Merge se saiu melhor em todos os casos e se provou como método mais eficiente para descobrir o vencedor do jogo com antecedência se comparado ao método convencional de Jaques e Fino, que se assemelha profundamente ao Bubble Sort.
