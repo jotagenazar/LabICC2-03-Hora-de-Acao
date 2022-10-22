@@ -9,7 +9,7 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 ## Implementação do Bubble Sort
 
-
+![image](https://user-images.githubusercontent.com/106783009/197308747-4251cb9e-0830-44d2-995b-8a3f3c2abba2.png)
 
 
 ## Implementação do Merge Sort
@@ -20,6 +20,13 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 ## Casos de teste
 &ensp;Os casos de teste de entrada podem ser encontrados na pasta input. A entrada consiste no tamanho do vetor que vai ser ordenado, seguida por cada elemento do vetor. As saídas do programa estão nas respectivas pastas para cada algoritmo. 
 
+### Leitura para o Bubble Sort
+
+![image](https://user-images.githubusercontent.com/106783009/197308781-37238d27-244c-4763-8757-130fd0aabcba.png)
+
+### Leitura para o Merge Sort
+
+![image](https://user-images.githubusercontent.com/106783009/197308867-11a9b8bc-d3e9-4477-995d-b6a8462c4d7f.png)
 
 
 ## Comparação dos Tempos de Execução
