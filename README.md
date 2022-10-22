@@ -14,7 +14,7 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 ## Implementação do Merge Sort
 
-
+![image](https://user-images.githubusercontent.com/106783009/197310879-7112ff6a-5050-4e93-b0b3-c06b10c3b1e2.png)
 
 
 ## Casos de teste
@@ -34,11 +34,11 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 ### Bubble Sort
 
-
+![image](https://user-images.githubusercontent.com/106783009/197311179-8f6e869e-4da9-4be2-9829-c3359e71aeb4.png)
 
 ### Merge Sort
 
-
+![image](https://user-images.githubusercontent.com/106783009/197311263-df9f5b6d-7b34-454e-b5e6-e722b93df2db.png)
 
 
 ## Considerações
